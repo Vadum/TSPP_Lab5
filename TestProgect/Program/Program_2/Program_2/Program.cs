@@ -12,6 +12,7 @@ namespace Program_2
     
         {
             Console.WriteLine("Hello Word");
+            Console.ReadLine();
         }
     }
 }
