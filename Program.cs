@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace события
+namespace zav1
 {
     public delegate void MyDelegate(long i);
     public delegate void MyDelegate_1(long i);
